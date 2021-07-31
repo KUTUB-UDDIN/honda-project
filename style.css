@@ -1,12 +1,14 @@
 
 /* header start */
   .top-banner{
-      padding: 5% 10%;
-      background: #264653
-      ;
+     
+      background: #264653;
+      
   }
   .navigation{
     background-color: #264653;
+    width: 83%;
+    margin: auto;
     
   }
   .bike-img{
@@ -14,13 +16,6 @@
   }
 /* header ends */
 /* Fetured Bikes start */
-
-#fetured-bike{
-     padding: 5% 10%; 
-        
-   
-    
-}
 .grayscale{
    filter: grayscale(1); 
 }
@@ -28,7 +23,7 @@
 .hr-style{
     width: 150px;
     margin: auto;
-    border: 10px solid #E76F51;
+    border: 10px solid wheat;
      border: none; 
 }
 .text-style{
@@ -36,17 +31,8 @@
 }
 /* Fetured Bikes ends */
  
- /* latest News START  */
- #News{
-    padding: 5% 10%;
-    background:white;
-  }
-  /* latest News ends  */
-  /* Happy Clients says start */
-    #happy-client{
-        padding: 5% 10%;
-    background:white;
-    }
+ /* Happy Clients says start */
+    
     span{
         color: #E76F51;
     }
@@ -59,25 +45,21 @@
         width: 25px;
     }
   /* Happy Clients says ends */
-  /* Frequently start */
-  #Frequently {
-    padding: 5% 10%;
-    background:white;
-  }
-  /* Frequently ends */
+ 
   /* contact me start */
-    #contact{
-        padding: 5% 10%;
-        background:#264653;
+    .contact{
+      
+     background:#264653;
     }
 
     /* contact me ends */
 
      /* fotter start  */
-  footer{
-    padding: 5% 10%;
+   .bg-color{
+  
     background: #056676;
-}
+  
+} 
 
 footer i:hover{
       transform: scale(1.2);
